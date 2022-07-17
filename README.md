@@ -1,6 +1,6 @@
 # na-levada-das-eleicoes
 
-🤔 O que acontece quando três formato narrativos - um quiz, uma página com filtros exploráveis e um scrollytelling - são colocados dentro de um mesmo repositório? Eles geram o "Na levada das eleições",  um portfólio que reúne trabalhos jornalísticos sobre o processo eleitoral brasileiro!
+🤔 O que acontece quando três formato narrativos - um quiz, uma página com filtros exploráveis e um scrollytelling - são colocados dentro de um mesmo repositório? Eles geram o *Na levada das eleições*,  um portfólio que reúne trabalhos jornalísticos sobre o processo eleitoral brasileiro!
 
 ## Por que?
  
@@ -10,3 +10,5 @@ Eleições e jornalismo essa é argamassa É fato que pleito a pleito, o cenári
 
 Não vai chegar a respostas . é um convite para passear pelas possibilidades. um laboratório.
 
+### Agradecimentos
+Trabalho final do master de jornalismo. Nomear os professores e colegas.
