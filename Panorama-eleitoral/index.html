@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Panorama eleitoral</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body class="carregando">
+
+        <h1>Panorama eleitoral</h1>
+        <h2>Nas eleições de 2020, 558.320 pessoas concorreram a cargos eletivos.</h2>
+            <h3>
+            👩‍🦰Quantas delas elas mulheres? <br>
+            🧑🏿‍🦱Quantas eram homens negros?<br> 
+            🧑🏽‍🦳Quantas tinham entre 71 e 80 anos? <br>
+            E mais, das pessoas que tinham essas características, quantas se elegeram? <br>
+            <br>Configure os filtros para obter essas e outras respostas:</h3>
+        
+        <div class="pergunta">
+            <p>⌛Selecione uma faixa etária</p>
+
+            <select class="faixaEtaria" name="select">
+
+                <option value="TODOS"></option>
+                <option value="De 18 a 30 anos">De 18 a 30 anos</option>
+                <option value="De 31 a 40 anos">De 31 a 40 anos</option>
+                <option value="De 41 a 50 anos">De 41 a 50 anos</option>
+                <option value="De 51 a 60 anos">De 51 a 60 anos</option>
+                <option value="De 61 a 70 anos">De 61 a 70 anos</option>
+                <option value="De 71 a 80 anos">De 71 a 80 anos</option>
+                <option value="De 81 a 90 anos">De 81 a 90 anos</option>
+                <option value="Mais de 90 anos">Mais de 90 anos</option>
+            
+              </select>
+        </div>
+
+        <div class="pergunta">
+            <p>⚧️Escolha um gênero</p>
+            
+            
+            <label>
+                <input type="radio" name="genero" value="FEMININO">Feminino
+            </label><br>
+            <!-- LABEL É UM TIPO DE ELEMENTO? -->            
+            
+            <label>
+                <input type="radio" name="genero" value="MASCULINO">Masculino
+            </label><br>
+            
+            <label><input type="radio" id="outro" name="genero" value="OUTRO">Outro
+            </label>
+
+        </div>
+
+        <div class="pergunta">
+            <p>📚Selecione um grau de instrução?</p>
+
+            <select class="instrucao" name="select">
+
+                <option value="TODOS"></option>
+                <option value="ANALFABETO">Analfabeto</option>
+                <option value="LÊ E ESCREVE">Lê e escreve</option>
+                <option value="ENSINO FUNDAMENTAL INCOMPLETO">Ensino Fundamental incompleto</option>
+                <option value="ENSINO FUNDAMENTAL COMPLETO">Ensino Fundamental completo</option>
+                <option value="ENSINO MÉDIO INCOMPLETO">Ensino Médio incompleto</option>
+                <option value="ENSINO MÉDIO INCOMPLETO">Ensino Médio completo</option>
+                <option value="SUPERIOR INCOMPLETO">Ensino Superior incompleto</option>
+                <option value="SUPERIOR COMPLETO">Ensino Superior completo</option>
+            
+              </select>
+
+        </div>
+
+        <div class="pergunta">
+            <p>💘 Escolha um estado civil</p>
+
+            <select class="estadoCivil" name="select">
+                
+                <option value="TODOS"></option>
+                <option value="SOLTEIRO(A)">Solteiro</option>
+                <option value="CASADO(A)">Casado</option>
+                <option value="DIVORCIADO(A)">Divorciado</option>
+                <option value="SEPARADO(A) JUDICIALMENTE">Separado judicialmente</option>
+                <option value="VIÚVO(A)">Viúvo</option>
+                 
+              </select>
+
+        </div>
+
+        <div  class="pergunta">
+            <p>🧑🏿‍🦱Selecione uma raça</p>
+
+            <select class="raca" name="select">
+                
+                <option value="TODOS"></option>
+                <option value="PRETA">Preta</option>
+                <option value="PARDA">Parda</option>
+                <option value="INDÍGENA">Indígena</option>
+                <option value="BRANCA">Branca</option>
+                <option value="AMARELA">Amarela</option>
+                <option value="NÃO INFORMADO">Prefiro não responder</option>
+                 
+              </select>
+
+        </div>
+
+        <h2>Resultado</h2>
+
+
+        <p>Das <b>558.320 pessoas que se candidataram</b> para cargos municipais (prefeito, vice-prefeito e vereador), em todo o Brasil <output class="contagem">....</output> tinham as características que você filtrou.</p> 
+        <p>Isso corresponde a <output class="porcentagem">...%</output> do total.</p>  <!-- é uma tag html dinâmica , ela foi criada para abrigar o resultado de uma conta-->
+        </p>
+
+        <footer>
+            Fonte: 
+            <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2020-subtemas/resource/8187b1aa-5026-4908-a15a-0bf777ee6701">Tribunal Superior Eleitoral</a>
+        </footer>
+
+        <script src="app.js"></script>
+        
+    </body>
+</html>
