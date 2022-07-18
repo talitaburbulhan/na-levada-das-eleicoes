@@ -1,0 +1,61 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <title>Quiz</title>
+        <link rel="stylesheet" href="app.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+
+        <h1>✅ CONFIRMA!</h1>
+        <h3>O jogo que testa seus conhecimentos sobre a<span class="boldh3">urna eletrônica</span></h3>
+        <div class="instrucoes">
+            <p class="instrucao"> Instruções:</p>
+            <p class="instrucao"><span class="emoji">🗳️</span>= Um<span class="boldInstrucao">fato verídico</span>sobre o processo eleitoral.</p>
+            <p class="instrucao"><span class="emoji">🤔</span>= Uma explicação sobre o<span class="boldInstrucao">fato verídico.</span> O seu desafio é dizer se a explicação é FALSA ou VERDADEIRA.</p>
+        </div>
+        
+        <button class="comecar">QUERO JOGAR!</button>
+
+        <div class="pergunta">
+            
+            <p class="contexto"></p>
+            <p class="explicacao"></p>
+                               
+        </div>
+
+        <p class="comoVotar"></p>
+        
+        <section class="urna escondida"> <!-- esse elemento possui duas classes -->
+           
+            <img src="urna-eletronica.svg">
+            
+           <div class="botoes">
+
+                <button id="botaoVerde"></button>
+                <button id="numero1"></button>
+                <button id="numero2"></button>
+
+           </div>
+
+        </section>
+
+        <div class="complemento">
+            
+            <p class="resultado"></p>
+            <p class="resposta"></p>
+
+        </div>       
+
+        <button class="proximaPergunta">Próxima pergunta</button>
+       
+        <audio src="som-urna/botao-numero.mp3" class="som-numero"></audio>
+        <audio src="som-urna/botao-confirma.mp3" class="som-confirma"></audio>
+        
+
+        <script src="app.js"></script>
+
+    </body>
+
+</html>
+
