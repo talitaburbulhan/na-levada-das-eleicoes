@@ -1,0 +1,97 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    color: #636363;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+* {
+    box-sizing: border-box; /* na largura dos elementos, considera o padding */
+    max-width: 650px;
+    margin: 1em auto;  /*Para centralizar o conteúdo*/
+    
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 0;
+    color:#f16825;
+}
+
+h2 {
+    
+    font-size: 24px;
+    color: #636363;
+
+}
+
+h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 1.5em;
+    color: #636363;
+    font-weight: 400;
+  }
+
+footer {
+    font-size: small;
+    font-weight: bold;
+}
+
+
+.passos{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    position: fixed; /* Qualquer elemento que tiver esta propriedade vai ficar fixo na página (não vai rolar, nao vai mudar de posição. Vai ficar onde você colocar ele) */
+    margin-top: 5em;
+}
+
+
+
+
+.passos > div {  /* Regra que seleciona os filhos diretos da classe passos. No nosso caso, seleciona as div que contêm os svgs */
+
+    position: absolute;  /* empilhou as imagens uma em cima da outra. A diferença entre o POSITION FIXED e o POSITION ABSOLUTE é que o fixed "vai ficar fixo na página" e o absolute "vai ficar fixo no pai desse elemento", no caso o "passos". Se "passos" mudar de posição, todas as divs vao junto com ele, empilhadas uma em cima da outra. */
+    display: none;
+      
+}
+
+.passos img {
+
+    width: 100%;
+}
+
+
+.passos > div.passo-ativo{
+    display: flex;
+    flex-direction: column;
+}
+
+.gatilhos {
+
+    position: absolute; /* Porque eu quero que ele fique por cima das imagens */
+}
+
+.gatilhos > div {
+    /*border: 1px solid red;*/
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.final {
+    margin-bottom: 50vh;
+    padding: 2em;
+}
+
+.gatilhos p {
+
+    background-color: white;
+    
+
+}
