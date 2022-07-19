@@ -1,6 +1,6 @@
 # Na levada das eleições 
 
-
+![imagens/Foto-de-capa.jpg]
 
 🤔 O que acontece quando três formato narrativos - um quiz, uma página com filtros exploráveis e um scrollytelling - são colocados dentro de um mesmo repositório? Eles geram o *Na levada das eleições*, um portfólio de páginas web que abordam aspectos do processo eleitoral brasileiro. O propósito aqui foi utilizar linguagem de programação, dados e informações jornalísticas para experimentar diferentes maneiras de produzir conteúdo sobre as eleições. 
 
