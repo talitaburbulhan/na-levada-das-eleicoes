@@ -15,8 +15,5 @@ https://talitaburbulhan.github.io/na-levada-das-eleicoes/Panorama-eleitoral
 https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca
 
 
-<a href = "https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca"><img src="foto.jpg"></a>
-
-[clique aqui](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca)
 
 [![Employee data](foto.jpg "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca)
