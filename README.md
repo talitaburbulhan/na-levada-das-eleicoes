@@ -7,7 +7,16 @@
 Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna eletrônica e testa seus conhecimentos sobre o processo eletrônico eleitoral.
 
 https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica
+
+
 https://talitaburbulhan.github.io/na-levada-das-eleicoes/Panorama-eleitoral
+
+
 https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca
 
 
+<a href = "https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca"><img src="foto.jpg"></a>
+
+[clique aqui](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca)
+
+[![Employee data](foto.jpg "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca)
