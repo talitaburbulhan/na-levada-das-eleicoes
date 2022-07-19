@@ -6,7 +6,7 @@
 
 Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna eletrônica e testa seus conhecimentos sobre o processo eletrônico eleitoral.
 
-[](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
+[CONFIRMA](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
 
 
 [![Employee data](imagens/Confirma_quiz-da-urna-eletronica.png "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
