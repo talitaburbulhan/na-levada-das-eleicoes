@@ -16,4 +16,4 @@ https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-segur
 
 
 
-[![Employee data](foto.jpg "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca)
+[![Employee data](imagens/Confirma_quiz-da-urna-eletronica.png "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
