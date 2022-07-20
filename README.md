@@ -31,7 +31,7 @@ Que tal colocar seus conhecimentos à prova antes de seguir para a próxima atra
 
 ### 👀 Para ter em vista   
 
-Algumas melhorias que poderiam ser futuramente desenvolvidas para aprimorar o quiz: 
+Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz: 
 * Elaborar mais perguntas;
 * Criar uma página final com um contador, que mostre para o jogador a pontuação final; 
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
