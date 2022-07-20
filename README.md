@@ -9,7 +9,7 @@ Os projetos que você irá encontrar nesse repositório não possuem um fio narr
 
 Elas, definitivamente, não atingiram um grau de desenvolvimento suficiente para serem entregues a um usuário final. Mas elas, certamente, já conseguem cumprir um propósito notável: trazer à tona o tema das eleições de uma maneira leve e descontraída. Em tempos de desinformação escancarada, de ameças à democracia e de extremismos políticos, conteúdos sobre o processo eleitoral são, em sua maioria, angustiantes. **Na levada das eleições** propicia um perambular despreocupado por esse universo e anseia que o passeio instigue curiosidades, seja fonte de críticas e inspirações e, principalmnete, desperte no público o interesse de compreeender a fundo funcionamento do nosso processo eleitoral. 
 
-Sem mais delongas, chegou a hora de você conhecer em detalhes aspectos das eleições brasileiras! O único frio na barriga que você deve sentir aqui é o de empolgação, igual ao de quem está prestes a despencar do ápice de uma montanha russa 🎢. Mãos para cima, o paseio começou.
+Sem mais delongas, chegou a hora de você conhecer em detalhes aspectos das eleições brasileiras! O único frio na barriga que você deve sentir aqui é o de empolgação, igual ao de quem está prestes a despencar do ápice de uma montanha-russa 🎢. Travas de segurança apertadas, o paseio começou.
 
 ## 🗳️Confirma | Quiz da Urna Eletrônica
 
