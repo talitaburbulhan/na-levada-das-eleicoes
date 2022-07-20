@@ -18,9 +18,11 @@ Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna ele
 O jogo é simples: **você precisa dizer se uma explicação para um fato é verdadeira ou falsa**. Por exemplo: 
 
 🗳️ FATO: A água do mar é salgada. 
-🤔 EXPLICAÇÃO: *A água do mar é salgada porque há 547 anos uma esquadra de 10 mil caravelas espanholas que transportava sal grosso do oriente afundou durante uma tempestade no oceano Atlântico*. 
 
-É nessa hora que você enntra em ação. Na sua opinião, essa explicação é falsa ou verdadeira?
+🤔 EXPLICAÇÃO: *A água do mar é salgada porque há 547 anos uma esquadra de 10 mil caravelas espanholas que transportava sal grosso do oriente afundou durante uma tempestade no oceano Atlântico, mudando definitivamente a composição química da água*. 
+
+Na sua opinião, essa explicação é falsa ou verdadeira? É nessa hora que a urna eletrônica entra em ação. Se a explicação for verdadeira, o jogador terá que votar 1. Caso contrário, votará 2. A resposta só será computada depois que clicar em CONFIRMA. 
+
 
 
 Ele possui um fato verídico, representado pelo emoji da urna 🗳️. Uma explicação sobre esse fato, sinalizada com o emoji do rostinho pensativo 🤔. Essa explicação pode ser FALSA ou VERDADEIRA. 
@@ -35,4 +37,4 @@ uma explicação A partir de uma informação verdadeira sobre as eleições, o 
 * Elaborar mais perguntas;
 * Criar uma página final com um contador, que mostre para o jogador a pontuação final; 
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript.
-
+* Reduzir a intensidade do som dos botões da urna. 
