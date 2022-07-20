@@ -11,7 +11,7 @@ Elas, definitivamente, não atingiram um grau de desenvolvimento suficiente para
 
 Sem mais delongas, chegou a hora de você conhecer em detalhes aspectos das eleições brasileiras! O único frio na barriga que você deve sentir aqui é o de empolgação, igual ao de quem está prestes a despencar do ápice de uma montanha-russa 🎢. Travas de segurança apertadas, o passeio começou.
 
-## 🗳️Confirma | Quiz da Urna Eletrônica
+## ATRAÇÃO 1: 🗳️Confirma | Quiz da Urna Eletrônica
 
 Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna eletrônica e testa seus conhecimentos sobre o processo eleitoral.
 
@@ -29,10 +29,12 @@ Que tal colocar seus conhecimentos à prova antes de seguir para a próxima atra
 
 [![Employee data](imagens/Confirma_quiz-da-urna-eletronica.png "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
 
+### 👀 Para ter em vista   
 
-### MELHORIAS PARA TER EM VISTA:   
-
+Algumas melhorias que poderiam ser futuramente desenvolvidas para aprimorar o quiz: 
 * Elaborar mais perguntas;
 * Criar uma página final com um contador, que mostre para o jogador a pontuação final; 
-* Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript.
+* Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
 * Reduzir a intensidade do som dos botões da urna. 
+
+## ATRAÇÃO 2: TPS | Teste Público de Segurança
