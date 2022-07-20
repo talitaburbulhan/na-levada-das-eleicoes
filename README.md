@@ -15,10 +15,20 @@ Sem mais delongas, chegou a hora de você conhecer em detalhes aspectos das elei
 
 Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna eletrônica e testa seus conhecimentos sobre o processo eletrônico eleitoral.
 
-[CONFIRMA](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
+O jogo é simples: **você precisa dizer se uma explicação para um fato é verdadeira ou falsa**. Por exemplo: 
 
+🗳️ FATO: A água do mar é salgada. 
+🤔 EXPLICAÇÃO: *A água do mar é salgada porque há 547 anos uma esquadra de 10 mil caravelas espanholas que transportava sal grosso do oriente afundou durante uma tempestade no oceano Atlântico*. 
+
+É nessa hora que você enntra em ação. Na sua opinião, essa explicação é falsa ou verdadeira?
+
+
+Ele possui um fato verídico, representado pelo emoji da urna 🗳️. Uma explicação sobre esse fato, sinalizada com o emoji do rostinho pensativo 🤔. Essa explicação pode ser FALSA ou VERDADEIRA. 
+
+uma explicação A partir de uma informação verdadeira sobre as eleições, o jogador devideia aqui foi trabalhar com uma afirmação verdadeira sobre as eleições e desafiar o usuário a  
 
 [![Employee data](imagens/Confirma_quiz-da-urna-eletronica.png "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
+[QUERO JOGAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
 
 ### MELHORIAS PARA TER EM VISTA:   
 
