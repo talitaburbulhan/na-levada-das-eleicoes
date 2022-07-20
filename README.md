@@ -39,8 +39,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 
 ## ATRAÇÃO 2: Urnas sob ataque! | Teste Público de Segurança
 
-A segurança do processo eletrônico de votação tem sido motivo de escrutínio público 
-Como minha proposta era abordar as etapas desse teste (na apuração descobri que ele teve duração de 112 dias), resolvi mostrar o passo a passo por meio de um calendário, que sofreria pequenas mudanças visuais à medida que a tela fosse scrolada. Achei que esse tipo de narativa seria interessante para dar dinamicidade a um tema pouco instigante, como são as descrições de processos burocráticos.
+A segurança do processo eletrônico de votação tem sido motivo de escrutínio público. 
 
 https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4
 
