@@ -54,7 +54,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 
 ## ATRAÇÃO 3: Urnas sob ataque! | Teste Público de Segurança
 
-SIIIMMMMM, as urnas eletrônicas já sofreram ataques 😱.
+SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
 *"Então, isso prova que aquele vídeo de procedência duvidosa do tio do zap sobre as eleições não serem seguras é verdade!* 
 
@@ -64,9 +64,9 @@ A 6ª edição do TPS ocorreu em 2021. 🗓️ De 22/11 a 26/11, as pessoas e or
 
 Entender cada etapa do Teste Público de Segurança e encontrar resposta para perguntas do tipo, "Como foram selecionados os participantes?" e "Que ataque cada um realizou?" está, literalmente, na ponta do dedo: basta scrollar a tela:
 
-👆🏼[QUERO SCROLLAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica) 
-
 https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4
+
+👆🏼[QUERO SCROLLAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca/) 
 
 ### 👀 Para ter em vista:   
 
