@@ -39,13 +39,19 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 
 ## ATRAÇÃO 2: 🔽 Panorama Eleitoral | Filtrando pessoas candidatas de 2020
 
-Já imaginou poder descobrir características gerais das pessoas que se candidataram nas eleições municipais de 2020?
+558.320 pessoas concorreram nas eleições municipais de 2020. 
 
 * 👩🏾👩🏼‍🦳👩‍🦲 Quantas delas eram mulheres?
 * 👩🏾 Quantas eram mulheres e tinham entre 18 e 30 anos?
-* 👨🏿‍⚕️ Quantos eram homens, negros, com ensino superior completo?
+* 👨🏿‍⚕️ Quantos eram homens, pretos, com ensino superior completo?
 
-Com o Panorama Eleitoral é possível responder a essas e outras perguntas.
+O Panorama Eleitoral tem as respostas! 
+
+* 187.157 👩🏾👩🏼‍🦳👩‍
+* 17.455 👩🏾
+* 6.361 👨🏿‍⚕️
+
+Explore a ferramenta que informa a quantidade de pessoas candidatas a partir de características como gênero, escolaridade, faixa etária, estado civil e raça, e mostra o percentual em comparação com o total. [QUERO FILTRAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Panorama-eleitoral)
 
 ### 👀 Para ter em vista
 
@@ -77,4 +83,4 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 * Fazer uma apuração mais robusta e plural, trazendo outras fontes - além Tribunal Superior Eleitoral (TSE) - que abordem o tema;
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: https://triangulo.dev/posts/scroll-snap-na-pratica);
 
-## Parque fechado 
+# Parque fechado 
