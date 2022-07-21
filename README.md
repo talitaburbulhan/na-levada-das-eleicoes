@@ -37,7 +37,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
 * Reduzir a intensidade do som dos botões da urna. 
 
-## ATRAÇÃO 2:  Panorama Eleitoral | Filtrando pessoas candidatas de 2020
+## ATRAÇÃO 2: 🔽 Panorama Eleitoral | Filtrando pessoas candidatas de 2020
 
 A ideia é permitir que as pessoas tenham um retrato dos/as/es candidatos/as/es das eleições de 2020, a partir das características faixa etária, gênero, grau de instrução, estado civil e raça. Um leitor hipotético se sentiria inclinado a explorar os dados porque poderia descobrir fatos sobre o grau de representatividade no processo eleitoral brasileiro. Por exemplo, com o filtro é possível saber quantas mulheres foram candidatas em 2020, quantas delas eram solteiras, quantas eram solteiras e tinham entre 31 e 40 anos. Como o filtro permite explorar os dados sobre candidatos considerando 1 característica, duas, três, quatro ou todas as cinco cinco características juntas, há uma gama de perguntas que pdoeriam ser repsondidas. 
 
@@ -51,7 +51,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 * Colocar o percentual de pessoas eleitas;
 * Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos. 
 
-## ATRAÇÃO 3: Urnas sob ataque! | Teste Público de Segurança
+## ATRAÇÃO 3: 🥊 Urnas sob ataque! | Teste Público de Segurança
 
 SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
