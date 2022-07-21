@@ -83,6 +83,11 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 * Fazer uma apuração mais robusta e plural, trazendo outras fontes - além Tribunal Superior Eleitoral (TSE) - que abordem o tema;
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: https://triangulo.dev/posts/scroll-snap-na-pratica);
 
-# Fim parque 
-![AltonTowersCorkscrewGIF](https://user-images.githubusercontent.com/89229665/180321803-e4e853d2-60ce-41b4-9f5c-df308cecbd8b.gif)
+# Fim de percurso
+https://user-images.githubusercontent.com/89229665/180330589-743d1ca2-442f-4298-b6ad-f164b425b212.mp4
+📽️ [Scott Schaffer!](https://www.youtube.com/watch?v=KTji1hOICEI)
+
+**Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do *Master de Jornalismo de Dados, Automação e Data Storytelling*, do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de .
+
+💖 Um agradecimento especial a todos os colegas de turma e ao corpo docente do curso. Foi uma jornada incrivelmente desafiadora. Que venham outras.    
 
