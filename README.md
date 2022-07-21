@@ -48,7 +48,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 O Panorama Eleitoral tem as respostas! 
 
 * 👩🏾👩🏼‍🦳👩‍ 187.157 
-* 👩🏾 17.455🏾
+* 👩🏾 17.455
 * 👨🏿‍⚕️ 6.361
 
 Explore a ferramenta que informa a quantidade de pessoas candidatas a partir de características como gênero, escolaridade, faixa etária, estado civil e raça, e mostra o percentual em comparação com o total. [QUERO FILTRAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Panorama-eleitoral)
