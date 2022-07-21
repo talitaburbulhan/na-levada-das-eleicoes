@@ -39,9 +39,13 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 
 ## ATRAÇÃO 2: 🔽 Panorama Eleitoral | Filtrando pessoas candidatas de 2020
 
-A ideia é permitir que as pessoas tenham um retrato dos/as/es candidatos/as/es das eleições de 2020, a partir das características faixa etária, gênero, grau de instrução, estado civil e raça. Um leitor hipotético se sentiria inclinado a explorar os dados porque poderia descobrir fatos sobre o grau de representatividade no processo eleitoral brasileiro. Por exemplo, com o filtro é possível saber quantas mulheres foram candidatas em 2020, quantas delas eram solteiras, quantas eram solteiras e tinham entre 31 e 40 anos. Como o filtro permite explorar os dados sobre candidatos considerando 1 característica, duas, três, quatro ou todas as cinco cinco características juntas, há uma gama de perguntas que pdoeriam ser repsondidas. 
+Já imaginou poder descobrir características gerais das pessoas que se candidataram nas eleições municipais de 2020?
 
-No entanto, em termos de narrativa exploratória, eu não considero que o Panorama Eleitoral estaria pronto para ser publicado, porque falta ele comunicar o que de interessante esses dados revelam. No monento, considero que ele serve como uma ferramenta de apuração.
+* 👩🏾👩🏼‍🦳👩‍🦲 Quantas delas eram mulheres?
+* 👩🏾 Quantas eram mulheres e tinham entre 18 e 30 anos?
+* 👨🏿‍⚕️ Quantos eram homens, negros, com ensino superior completo?
+
+Com o Panorama Eleitoral é possível responder a essas e outras perguntas.
 
 ### 👀 Para ter em vista
 
