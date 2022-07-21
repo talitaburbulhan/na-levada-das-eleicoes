@@ -86,7 +86,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 # Fim de percurso
 https://user-images.githubusercontent.com/89229665/180330589-743d1ca2-442f-4298-b6ad-f164b425b212.mp4
 
-📽️ [Scott Schaffer!](https://www.youtube.com/watch?v=KTji1hOICEI)
+📽️ [Scott Schaffer](https://www.youtube.com/watch?v=KTji1hOICEI)
 
 **Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do *Master de Jornalismo de Dados, Automação e Data Storytelling*, do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de .
 
