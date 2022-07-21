@@ -37,17 +37,16 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
 * Reduzir a intensidade do som dos botões da urna. 
 
-## ATRAÇÃO 2:  Panorama Eleitoral | Um olhada sob as pessoas que se candidataram em 2020
-A ideia é permitir que as pessoas tenham um retrato dos/as/es candidatos/as/es das eleições de 2020, a partir das características faixa etária, gênero, grau de instrução, estado civil e raça.
+## ATRAÇÃO 2:  Panorama Eleitoral | Filtrando pessoas candidatas de 2020
 
-Um leitor hipotético se sentiria inclinado a explorar os dados porque poderia descobrir fatos sobre o grau de representatividade no processo eleitoral brasileiro. Por exemplo, com o filtro é possível saber quantas mulheres foram candidatas em 2020, quantas delas eram solteiras, quantas eram solteiras e tinham entre 31 e 40 anos. Como o filtro permite explorar os dados sobre candidatos considerando 1 característica, duas, três, quatro ou todas as cinco cinco características juntas, há uma gama de perguntas que pdoeriam ser repsondidas. 
+A ideia é permitir que as pessoas tenham um retrato dos/as/es candidatos/as/es das eleições de 2020, a partir das características faixa etária, gênero, grau de instrução, estado civil e raça. Um leitor hipotético se sentiria inclinado a explorar os dados porque poderia descobrir fatos sobre o grau de representatividade no processo eleitoral brasileiro. Por exemplo, com o filtro é possível saber quantas mulheres foram candidatas em 2020, quantas delas eram solteiras, quantas eram solteiras e tinham entre 31 e 40 anos. Como o filtro permite explorar os dados sobre candidatos considerando 1 característica, duas, três, quatro ou todas as cinco cinco características juntas, há uma gama de perguntas que pdoeriam ser repsondidas. 
 
 No entanto, em termos de narrativa exploratória, eu não considero que o Panorama Eleitoral estaria pronto para ser publicado, porque falta ele comunicar o que de interessante esses dados revelam. No monento, considero que ele serve como uma ferramenta de apuração.
 
 ### 👀 Para ter em vista
 
 Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtros exploráveis: 
-* Extrair algum 
+* Extrair algum revelação dos dados e abordar isso na introdução da página; 
 * Criar uma animação de "carregando dados" enquanto a página está com opacidade;
 * Colocar o percentual de pessoas eleitas;
 * Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos. 
