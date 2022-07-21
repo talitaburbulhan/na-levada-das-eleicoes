@@ -51,7 +51,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 * Colocar o percentual de pessoas eleitas;
 * Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos. 
 
-## ATRAÇÃO 3: 🥊 Urnas sob ataque! | Teste Público de Segurança
+## ATRAÇÃO 3: 🥊Urnas sob ataque! | Teste Público de Segurança
 
 SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
@@ -59,7 +59,7 @@ SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
 NÃÃÃÃÕOOOO, muito pelo contrário. Desde 2009, as urnas e seus sistemas sofrem ataques deliberados para que a integridade dos programas e a estrutura física do equipamento sejam colocados à prova. Essa é uma das ações de checagem da lisura das eleições, feitas pelo Tribunal Superior Eleitoral (TSE). Ela recebe o nome de Teste Público de Segurança, vulgo TPS. 
 
-A 6ª edição do TPS ocorreu em 2021. 🗓️ De 22/11 a 26/11, as pessoas e organizações inscritas realizaram ataques a componentes internos e externos da urna e do sistema eletrônico. Esses cinco dias de exame minucioso foram o momento auge de um processo que, na verdade, se extendeu por 112 dias, tendo iniciado no dia 26 de agosto de 2021, com as pré-inscrições dos interessados em participar, e sendo finalizado em 15 de dezembro de 2021, com a divulgação de relatório da Comissão Avaliadora do TSE.
+🗓️ A 6ª edição do TPS ocorreu em 2021. De 22/11 a 26/11, as pessoas e organizações inscritas realizaram ataques a componentes internos e externos da urna e do sistema eletrônico. Esses cinco dias de exame minucioso foram o momento auge de um processo que, na verdade, se extendeu por 112 dias, tendo iniciado no dia 26 de agosto de 2021, com as pré-inscrições dos interessados em participar, e sendo finalizado em 15 de dezembro de 2021, com a divulgação de relatório da Comissão Avaliadora do TSE.
 
 Entender cada etapa do Teste Público de Segurança e encontrar resposta para perguntas do tipo, "Como foram selecionados os participantes?" e "Que ataque cada um realizou?" está, literalmente, na ponta do dedo: basta scrollar a tela:
 
