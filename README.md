@@ -37,7 +37,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
 * Reduzir a intensidade do som dos botões da urna. 
 
-# ATRAÇÃO 2: 🔽 Panorama Eleitoral | Filtrando pessoas candidatas de 2020
+# ATRAÇÃO 2: 🔽 Panorama Eleitoral | Filtrando candidatos/as/es
 
 558.320 pessoas concorreram nas eleições municipais de 2020. 
 
