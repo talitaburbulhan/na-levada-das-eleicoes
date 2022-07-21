@@ -85,7 +85,8 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: https://triangulo.dev/posts/scroll-snap-na-pratica);
 
 # Fim de percurso
-https://user-images.githubusercontent.com/89229665/180330589-743d1ca2-442f-4298-b6ad-f164b425b212.mp4
+
+https://user-images.githubusercontent.com/89229665/180333123-9599c35f-abd9-4f24-8e67-ad134f053470.mp4
 
 📽️ [Scott Schaffer](https://www.youtube.com/watch?v=KTji1hOICEI)
 
