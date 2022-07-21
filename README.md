@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/89229665/180330589-743d1ca2-442f-4298-
 
 📽️ [Scott Schaffer](https://www.youtube.com/watch?v=KTji1hOICEI)
 
-**Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do *Master de Jornalismo de Dados, Automação e Data Storytelling*, do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de @vsueiro, @tiagombp, @carolinex e @RodrigoMenegat.
+**Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do *Master de Jornalismo de Dados, Automação e Data Storytelling*, do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de [Vinicius Sueiro](https://github.com/vsueiro), [Tiago Maranhão](https://github.com/tiagombp), [Carol Rozendo](https://github.com/carolinex) e [Rodrigo Menegat](https://github.com/RodrigoMenegat).
 
 💖 Um agradecimento especial a todos os colegas de turma e ao corpo docente do curso. Foi uma jornada incrivelmente desafiadora. Que venham outras.    
 
