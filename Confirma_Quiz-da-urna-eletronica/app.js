@@ -37,13 +37,13 @@
             }
         ]
 
-// lista[0].resposta -> assim consigo acessar o valor da propriedade resposta que está dentro do objetio que está na posição de índice 0 da lista
+// lista[0].resposta -> assim consigo acessar o valor da propriedade resposta que está dentro do objeto que está na posição de índice 0 da lista
 
-// lista[0]['resposta'] -> mesma coisa da notaçã anterior. A vantagem é que ela consegue pegar propriedadees com nome fora do padrão, como com espaço e com pontuação, com elementos que nao pode ter em nome de variável. 
+// lista[0]['resposta'] -> mesma coisa da notação anterior. A vantagem é que ela consegue pegar propriedadees com nome fora do padrão, como com espaço e com pontuação, com elementos que nao pode ter em nome de variável. 
 
 
 
-//Cria a função "comecar". Na prática, ela carrega a questão da vez, faz desaparecer o botão "COMEÇAR", faz aparecer o desenho da urna eletrônica, faz o texto com as instuções do Quiz desaparecerem.  
+//Cria a função "comecar". Na prática, ela carrega a questão da vez, faz desaparecer o botão "COMEÇAR", faz aparecer o desenho da urna eletrônica, faz o texto com as instruções do Quiz desaparecerem.  
 
         function comecar(){
 
@@ -56,11 +56,11 @@
                 //Seleciono o elemento HTML que tem a classe ".urna", peço para que o javascript liste todas as classes dele e remova a chamada "escondida". Na prática, esse comando faz a urna aparecer na tela. 
             document.querySelector(".instrucoes").style.display = 
             'none'
-                //Seleciono o elemento HTML que tem a classe ".instrucoes" e peço para que o javascript mexa no estilo dele, fazendo com que o display seja "none". Na prática, estou fazendo desaparecer as instruções do jogo  
+                //Seleciono o elemento HTML que tem a classe ".instrucoes" e peço para que o javascript mexa no estilo dele, fazendo com que o display seja "none". Na prática, estou fazendo desaparecer as instruções do jogo. 
         }
 
 
-//Adiciona um monitorador de eventos no elemento HTML que possui a classe ".comecar". No caso, é o botão "QUERO JOGAR". O evento que será monitorado é o de "Click". Se ele ocorrer, a  função "comecar" - declarada acima - é rodada. 
+//Adiciona um monitorador de eventos no elemento HTML que possui a classe ".comecar". No caso, é o botão "QUERO JOGAR". O evento que será monitorado é o de "Click". Se ele ocorrer, a função "comecar" - declarada acima - é rodada. 
 
         document.querySelector(".comecar").addEventListener('click', comecar)
 
