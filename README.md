@@ -59,11 +59,14 @@ Explore a ferramenta que informa a quantidade de pessoas candidatas a partir de 
 ### 👀 Para ter em vista
 
 Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtros exploráveis: 
-* Extrair alguma revelação dos dados e abordar isso na introdução da página; 
+* Extrair revelações dos dados e abordar isso na introdução da página; 
 * Criar uma animação de "carregando dados" enquanto a página está com opacidade;
-* Colocar o percentual de pessoas eleitas;
-* Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos; 
-* Adicionar filtragem por cargo eletivo.
+* Acrescentar no resultado o percentual de pessoas eleitas;
+* Criar uma visualização que faça um comparativo dos candidatos filtrados e quantos deles foram eleitos; 
+* Adicionar filtro que permita escolher o cargo eletivo em disputa;
+* Diminuir o tamanho da base de dados, para que a página carregue mais rápido. Duas opções nesse sentido são:
+1. Utilizar um formato mais leve que o .JSON, como um .CSV, que não fica repetindo os nomes das propriedades/colunas para cada item. Porém o Javascript não lê esse tipo de arquivo. Uma opção seria ler como texto puro e parsear ele, ou usar algo pronto, como o “d3.csv()”. Também ajudaria abreviar valores (ex: “M” ao invés de “MASCULINO”).
+2. Realizar todos os cálculos em um servidor, ao invés de fazer no cliente (navegador). Para isso, o site não poderia estar hospedado no GitHub pages, mas sim em alguma hospedagem do tipo AWS, Google Cloud, Heroku etc. A página enviaria uma requisição (com um “fetch()” no JS, por exemplo) para esse servidor com as opções da pessoa, que retornaria um JSON ou CSV só com o resultado. No servidor, daria para fazer esses filtros utilizando Python ou mesmo JavaScript, através do Node.js.
 
 # Atração 3
 ## 🥊Urnas sob ataque! Teste Público de Segurança
