@@ -12,7 +12,7 @@ Elas, definitivamente, não atingiram um grau de desenvolvimento suficiente para
 
 Sem mais delongas, chegou a hora de você conhecer em detalhes aspectos das eleições brasileiras! O único frio na barriga que você deve sentir aqui é o de empolgação, igual ao de quem está prestes a despencar do ápice de uma montanha-russa 🎢. Travas de segurança apertadas, o passeio começou.
 
-# ATRAÇÃO 1: 🗳️Confirma | Quiz da Urna Eletrônica
+# Atração 1: 🗳️Confirma, Quiz da Urna Eletrônica
 
 Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna eletrônica e testa seus conhecimentos sobre o processo eleitoral.
 
@@ -38,7 +38,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
 * Reduzir a intensidade do som dos botões da urna. 
 
-# ATRAÇÃO 2: 🔽 Panorama Eleitoral | Filtrando candidatos/as/es
+# Atração 2: 🔽 Panorama Eleitoral, Filtrando candidatos/as/es
 
 558.320 pessoas concorreram nas eleições municipais de 2020. 
 
@@ -62,7 +62,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 * Colocar o percentual de pessoas eleitas;
 * Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos. 
 
-# ATRAÇÃO 3: 🥊Urnas sob ataque! | Teste Público de Segurança
+# Atração 3: 🥊Urnas sob ataque! Teste Público de Segurança
 
 SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
@@ -87,8 +87,6 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: https://triangulo.dev/posts/scroll-snap-na-pratica);
 
 # Fim de percurso
-
-https://user-images.githubusercontent.com/89229665/180335390-6d5f7c9d-8ccf-4779-a342-429714213b57.mp4
 
 <video style="width:70%" controls src="imagens/tchau-tchau.mp4"></video>
 
