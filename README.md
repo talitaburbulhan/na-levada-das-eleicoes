@@ -1,6 +1,6 @@
-[![Foto: David Traña | Unsplash](imagens/Foto-de-capa.jpg "titulo")](https://unsplash.com/photos/mmdchg5UPtQ)
+[![Foto: David Traña, Unsplash](imagens/Foto-de-capa.jpg "titulo")](https://unsplash.com/photos/mmdchg5UPtQ)
 
-📷 David Traña | Unsplash
+📷 David Traña, Unsplash
 
 # NA LEVADA DAS ELEIÇÕES 
 
