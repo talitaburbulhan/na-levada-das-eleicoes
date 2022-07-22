@@ -27,7 +27,7 @@ Por exemplo:
 
 Essa explicação é falsa ou verdadeira? Nessa hora, a urna eletrônica entra em ação. Se a explicação for verdadeira, o jogador terá que votar 1. Caso contrário, votará 2. Ao clicar em CONFIRMA a resposta será registrada e o jogador poderá ir para a pergunta seguinte.
 
-No momento, o jogo possui três perguntas (em tempo, nenhuma delas sobre a salinidade do mar). Que tal colocar seus conhecimentos à prova antes de seguir para a próxima atração? [QUERO JOGAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica) 
+No momento, o quiz possui três perguntas (em tempo, nenhuma delas sobre a salinidade do mar). Que tal colocar seus conhecimentos à prova antes de seguir para a próxima atração? [QUERO JOGAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica) 
 
 [![Employee data](imagens/Confirma_quiz-da-urna-eletronica.png "titulo")](https://talitaburbulhan.github.io/na-levada-das-eleicoes/Confirma_Quiz-da-urna-eletronica)
 
