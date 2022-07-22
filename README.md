@@ -87,7 +87,7 @@ Entender cada etapa do Teste Público de Segurança e encontrar resposta para pe
 
 👆🏼[QUERO SCROLLAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca/) 
 
-### 👀 Para ter em vista:   
+### 👀 Para ter em vista
 
 Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling: 
 * Fazer uma apuração mais robusta e plural, trazendo outras fontes - além Tribunal Superior Eleitoral (TSE) - que abordem o tema;
