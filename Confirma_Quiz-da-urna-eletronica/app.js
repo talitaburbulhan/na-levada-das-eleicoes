@@ -14,7 +14,7 @@
                 explicacao: "🤔 No Teste Público de Segurança os programas da urna são violados de propósito. Participam dessa etapa técnicos de computação, hackers, policiais federais, representantes de partidos políticos e quem mais quiser se habilitar.",
                 comoVotar:"Se você acha que a explicação (🤔) é<b>verdadeira vote 1</b>. Se, pelo contrário, considera que ela é<b>falsa vote 2.</b> Em seguida, aperte<b class='confirmaVerde'>CONFIRMA</b>para checar o resultado. ⬇️",
                 correta: true,
-                resposta: "<p><b>SAIBA MAIS</b></p><p>Essa etapa colaborativa permite o aprimoramento das camadas de proteção do sistema informatizado das eleições e a elaboração de novos mecanismos de segurança.</p><p>De acordo com o calendário eleitoral, de 11 a 13 de maio de 2022 ocorrerá o<b>Teste de Confirmação.</b> Nele serão checadas as correções aplicadas decorrentes dos resultados obtidos no Teste Público de Segurança de novembro passado."
+                resposta: "<p><b>SAIBA MAIS</b></p><p>Essa etapa colaborativa permite o aprimoramento das camadas de proteção do sistema informatizado das eleições e a elaboração de novos mecanismos de segurança.</p><p>De acordo com o calendário eleitoral, de 11 a 13 de maio de 2022 ocorreu o<b>Teste de Confirmação.</b> Nele foram checadas as correções aplicadas decorrentes dos resultados obtidos no Teste Público de Segurança de novembro passado."
 
             },
             
