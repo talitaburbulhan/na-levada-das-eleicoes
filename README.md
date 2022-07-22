@@ -76,9 +76,7 @@ Entender cada etapa do Teste Público de Segurança e encontrar resposta para pe
 
 https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4
 
-[![scroll](imagens/teste-publico-seguranca.mp4 "titulo")](https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4)
-
-<video style="width:70%" controls src="imagens/teste-publico-seguranca.mp4"></video>
+<video style="width:100%" controls src="imagens/teste-publico-seguranca.mp4"></video>
 
 👆🏼[QUERO SCROLLAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca/) 
 
@@ -90,13 +88,9 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 
 # Fim de percurso
 
-https://bit.ly/tchau-tchau
-
-
 https://user-images.githubusercontent.com/89229665/180337973-ab996c02-12af-44b1-a4ba-7f2479d8bc9d.mp4
 
-
-<video style="width:70%" controls>
+<video style="width:100%" controls>
   <source src="imagens/tchau-tchau.mp4">
   Your browser does not support the video tag.
 </video>
