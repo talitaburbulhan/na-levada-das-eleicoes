@@ -12,7 +12,9 @@ Elas, definitivamente, não atingiram um grau de desenvolvimento suficiente para
 
 Sem mais delongas, chegou a hora de você conhecer em detalhes aspectos das eleições brasileiras! O único frio na barriga que você deve sentir aqui é o de empolgação, igual ao de quem está prestes a despencar do ápice de uma montanha-russa 🎢. Travas de segurança apertadas, o passeio começou.
 
-# Atração 1 - 🗳️ Confirma: quiz da urna eletrônica
+# Atração 1
+
+## 🗳️ Confirma: quiz da urna eletrônica
 
 Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna eletrônica e testa seus conhecimentos sobre o processo eleitoral.
 
@@ -76,7 +78,7 @@ Entender cada etapa do Teste Público de Segurança e encontrar resposta para pe
 
 <video style="width:100%" controls src="imagens/teste-publico-seguranca.mp4"></video>
 
-https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4
+[Assistir no github](https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4)
 
 👆🏼[QUERO SCROLLAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca/) 
 
@@ -95,7 +97,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
   Your browser does not support the video tag.
 </video>
 
-[Tchay tchau](https://user-images.githubusercontent.com/89229665/180337973-ab996c02-12af-44b1-a4ba-7f2479d8bc9d.mp4)
+[Assistir no github](https://user-images.githubusercontent.com/89229665/180337973-ab996c02-12af-44b1-a4ba-7f2479d8bc9d.mp4)
 
 👋🏼 **Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do *Master de Jornalismo de Dados, Automação e Data Storytelling*, do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de [Vinicius Sueiro](https://github.com/vsueiro), [Tiago Maranhão](https://github.com/tiagombp), [Carol Rozendo](https://github.com/carolinex) e [Rodrigo Menegat](https://github.com/RodrigoMenegat).
 
