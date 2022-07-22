@@ -93,6 +93,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 * Fazer uma apuração mais robusta e plural, trazendo outras fontes - além Tribunal Superior Eleitoral (TSE) - que abordem o tema;
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: https://triangulo.dev/posts/scroll-snap-na-pratica);
 * Melhorar a experiência do usuário, diminuindo tempo que a tela fica em branco na primeira scrolada.
+* Melhorar a responsividade do conteúdo para viulização em telas de celulares.
 
 # Fim de percurso
 
