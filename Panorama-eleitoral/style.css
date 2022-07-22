@@ -31,6 +31,15 @@ h2 {
     margin-top: 1em;
 }
 
+h3 {
+    
+    font-size: 24px;
+    color: #636363;
+    margin-top: 1em;
+    font-weight: 400;
+}
+
+
 footer {
     font-size: small;
     font-weight: bold;
