@@ -91,7 +91,7 @@ Entender cada etapa do Teste Público de Segurança e encontrar resposta para pe
 
 Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling: 
 * Fazer uma apuração mais robusta e plural, trazendo outras fontes - além Tribunal Superior Eleitoral (TSE) - que abordem o tema;
-* Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência:[!Scroll snap na prática](https://triangulo.dev/posts/scroll-snap-na-pratica));
+* Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: [Scroll snap na prática](https://triangulo.dev/posts/scroll-snap-na-pratica));
 * Melhorar a experiência do usuário, diminuindo tempo que a tela fica em branco na primeira scrolada.
 * Melhorar a responsividade do conteúdo para visualização em telas de celulares.
 
@@ -106,7 +106,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 
 [Assistir no github](https://user-images.githubusercontent.com/89229665/180337973-ab996c02-12af-44b1-a4ba-7f2479d8bc9d.mp4)
 
-👋🏼 **Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do [!Master de Jornalismo de Dados, Automação e Data Storytelling](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/), do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de [Vinicius Sueiro](https://github.com/vsueiro), [Tiago Maranhão](https://github.com/tiagombp), [Carol Rozendo](https://github.com/carolinex) e [Rodrigo Menegat](https://github.com/RodrigoMenegat).
+👋🏼 **Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do [Master de Jornalismo de Dados, Automação e Data Storytelling](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/), do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de [Vinicius Sueiro](https://github.com/vsueiro), [Tiago Maranhão](https://github.com/tiagombp), [Carol Rozendo](https://github.com/carolinex) e [Rodrigo Menegat](https://github.com/RodrigoMenegat).
 
 💖 Um agradecimento especial a todos os colegas de turma e ao corpo docente do curso. Foi uma jornada incrivelmente desafiadora. Que venham outras.    
 
