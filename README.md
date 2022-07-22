@@ -95,7 +95,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
   Your browser does not support the video tag.
 </video>
 
-https://user-images.githubusercontent.com/89229665/180337973-ab996c02-12af-44b1-a4ba-7f2479d8bc9d.mp4
+[Tchay tchau](https://user-images.githubusercontent.com/89229665/180337973-ab996c02-12af-44b1-a4ba-7f2479d8bc9d.mp4)
 
 👋🏼 **Na levada das eleições** fica por aqui, muito obrigada pela visita! Esse repositório está aberto a contribuições e sugestões de melhorias. Ele foi criado como trabalho final do *Master de Jornalismo de Dados, Automação e Data Storytelling*, do Insper, turma 2021. Os projetos não teriam saído do plano das ideias e caído na internet sem a orientação de [Vinicius Sueiro](https://github.com/vsueiro), [Tiago Maranhão](https://github.com/tiagombp), [Carol Rozendo](https://github.com/carolinex) e [Rodrigo Menegat](https://github.com/RodrigoMenegat).
 
