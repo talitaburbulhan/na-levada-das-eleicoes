@@ -75,6 +75,7 @@ NÃÃÃÃÕOOOO, muito pelo contrário. Desde 2009, as urnas e seus sistemas sof
 Entender cada etapa do Teste Público de Segurança e encontrar resposta para perguntas do tipo, "Como foram selecionados os participantes?" e "Que ataque cada um realizou?" está, literalmente, na ponta do dedo: basta scrollar a tela. 📽️ Veja como:
 
 https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4
+<video style="width:70%" controls src="imagens/teste-publico-seguranca.mp4"></video>
 
 👆🏼[QUERO SCROLLAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca/) 
 
@@ -85,8 +86,6 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: https://triangulo.dev/posts/scroll-snap-na-pratica);
 
 # Fim de percurso
-
-https://user-images.githubusercontent.com/89229665/180333123-9599c35f-abd9-4f24-8e67-ad134f053470.mp4
 <video style="width:70%" controls src="imagens/tchau-tchau.mp4"></video>
 
 📽️ [Scott Schaffer](https://www.youtube.com/watch?v=KTji1hOICEI)
