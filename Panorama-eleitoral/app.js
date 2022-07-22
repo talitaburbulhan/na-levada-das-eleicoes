@@ -12,13 +12,13 @@
 //Cria variáveis que selecionam trechos do meu HTML: 
 
       let seletorFaixa = document.querySelector('.faixaEtaria')
-         // A variável "seletorFaixa" seleciona o elemento HTML que possui a classe ".faixaEtaria. No caso, é um elemento do tipo SELECT que possui dentro dele 9 elementos OPTION. Esta variável seleciona um elemento pai, o valor desse elemento pai varia de acordo com o atributo "value" do OPTION filho. Isso é uma particularidade do elemento SELECT. 
+         //A variável "seletorFaixa" seleciona o elemento HTML que possui a classe ".faixaEtaria. No caso, é um elemento do tipo SELECT que possui dentro dele 9 elementos OPTION. Esta variável seleciona um elemento pai, o valor desse elemento pai varia de acordo com o atributo "value" do OPTION filho. Isso é uma particularidade do elemento SELECT. 
       let generos = document.querySelectorAll('input[name="genero"]')
-         // A variável "generos" seleciona todos os elementos do tipo "input" que possuem o atributo "name" igual a "genero". No caso, ela está selecionando 3 elementos. 
+         //A variável "generos" seleciona todos os elementos do tipo "input" que possuem o atributo "name" igual a "genero". No caso, ela está selecionando 3 elementos. 
       let grausDeInstrucao = document.querySelector('.instrucao')
       let estadosCivis = document.querySelector('.estadoCivil')
       let racas = document.querySelector('.raca')
-         // As variáveis "grausDeInstrucao", "estadosCivis" e "racas" possuem o mesmo comportamento da variável "seletorFaixa".
+         //As variáveis "grausDeInstrucao", "estadosCivis" e "racas" possuem o mesmo comportamento da variável "seletorFaixa".
 
 
 
@@ -30,13 +30,13 @@
          grausDeInstrucao.value = 'TODOS'
          estadosCivis.value = 'TODOS'
          racas.value = 'TODOS'
-            // Determina que o atributo "value" das variáveis "seletorFaixa", "grausDeInstrucao", "estadosCivis" e "racas" - declaradas no início do código - é igual a "TODOS". No HTML, o elemento do tipo OPTION que possui "value" igual a "TODOS" possui nada de conteúdo dentro, o que faz com que exista uma opção em branco no filtro. 
+            //Determina que o atributo "value" das variáveis "seletorFaixa", "grausDeInstrucao", "estadosCivis" e "racas" - declaradas no início do código - é igual a "TODOS". No HTML, o elemento do tipo OPTION que possui "value" igual a "TODOS" possui nada de conteúdo dentro, o que faz com que exista uma opção em branco no filtro. 
 
 
          for( let genero of generos) {  
-            // 🚨 Crio a variável "genero". Ela só existe dentro do FOR. COMO LER: para cada "gênero" que houver dentro da minha variável "generos" (no caso, são 3: Feminino, Masculino e Outro) ...  
+            //Crio a variável "genero". Ela só existe dentro do FOR. COMO LER: para cada "gênero" que houver dentro da minha variável "generos" (no caso, são 3: Feminino, Masculino e Outro)...  
          genero.checked = false
-            // ... o atributo checked será falso. 
+            //...o atributo checked será falso. 
          }
       
             //Por que fazer um FOR? Generos é uma lista de elementos. Como eu quero que os nenhum elemento esteja marcado, faço o FOR para passear por todas as tres opções.  
@@ -71,26 +71,26 @@
       function extraiAno(data){ 
          //data seria algo assim: "24/03/1937", ou seja, uma string do meu json.
       return +data.substr(6,4) 
-         //🚨 "substr" é um método, o 6 a partir de qual carácter da string quero extrair e o 4 diz a quantidade de itens que deve compor a string.  
+         //"substr" é um método, o 6 a partir de qual carácter da string quero extrair e o 4 diz a quantidade de itens que deve compor a string.  
       } 
 
 
 
-//Cria a função RUN. Ela evita que os dados em json desapareçam. Na realidade, os dados não desapareceriam, eles não seriam aproveitados. Só posso fazer um processamento de dados, se os dados ja tiverem carregados. Por isso, todo o código que para ser executado necessita dos dados carregados, tem que estar dentro da função RUN. 
+//Cria a função RUN. Ela evita que os dados em json desapareçam. Na realidade, os dados não desapareceriam, eles não seriam aproveitados. Só posso fazer um processamento de dados, se os dados já tiverem carregados. Por isso, todo o código que para ser executado necessita dos dados carregados, tem que estar dentro da função RUN. 
 
       function run(jsondata) { 
 
          document.body.classList.remove( 'carregando' )
-            //O comportamento padrão da minha página é ter transparência e estar com o cursor do mouse desabilitado. Nesse trecho de código eu removo esse estilo assim que a base de dados é carregada. COMO LER: Falo para o javascrip olhar toda a minha página web. De todo o conteúdo dela, peço para que ele considere o elemento "body".Adiciono a propriedade classlist, responsável por listar todas as classes do elemento "body". Adiciono o método "remove", com isso o javascript remove da lista de classes a que eu colocar entre os parênteses. No caso, a classe "carregando".  
+            //O comportamento padrão da minha página é ter transparência e estar com o cursor do mouse desabilitado. Nesse trecho de código eu removo esse estilo assim que a base de dados é carregada. COMO LER: Falo para o javascrip olhar toda a minha página web. De todo o conteúdo dela, peço para que ele considere o elemento "body". Adiciono a propriedade classlist, responsável por listar todas as classes do elemento "body". Adiciono o método "remove", com isso o javascript remove da lista de classes a que eu colocar entre os parênteses. No caso, a classe "carregando".  
          
         
          
-            //Roda um FOR que executa uma série de tarefas. Em resumo: elimina o dia e o mês da variável DS_NASCIMENTO, com isso a base de dados fica só com a informação do ano. Com a informação do ano "em mãos" cria faixa etárias. Por fim, cria na base de dados a variável "faixaIdade".
+            //Roda um FOR que executa uma série de tarefas. Em resumo: elimina o dia e o mês da variável DS_NASCIMENTO, com isso a base de dados fica só com a informação do ano. Com a informação do ano "em mãos" gera faixa etárias. Por fim, cria na base de dados a variável "faixaIdade".
 
          for(row of jsondata){ 
                //COMO LER: "Para cada linha da minha base de dados, quero..."
             let idade = 2022 - (extraiAno(row.DT_NASCIMENTO))
-               ///Cria a variável idade. A variável idade é a subtração do ano atual,2022, com o ano de nascimento do candidato em questão. O ano de nascimento de cada candidato foi obtido por meio da função "extraiAno". O código entre parenteses roda a função "extraiAno" e dá como parâmetro a coluna DT_NASCIMENTO do meu Json.
+               ///Cria a variável idade. A variável idade é a subtração do ano atual, 2022, com o ano de nascimento do candidato em questão. O ano de nascimento de cada candidato foi obtido por meio da função "extraiAno". O código entre parênteses roda a função "extraiAno" e dá como parâmetro a coluna DT_NASCIMENTO do meu Json.
             
             let faixaIdade
                // Cria a variável faixaIdade, o valor dela muda de acordo com o IF
@@ -128,7 +128,7 @@
          for (let genero of generos){
             //"Eu tenho uma lista de elementos inputs, para cada um desses inputs vou adicionar um monitorador de evento 
             genero.addEventListener('change', atualizarOpcoes)
-            //"... fiquei atento ao evento de "change", se ele ocorrer, rode a função "atualizaOpcoes"."   
+            //"... fique atento ao evento de "change", se ele ocorrer, rode a função "atualizaOpcoes"."   
          }
             //Para o filtro sobre o gênero das pessoas candidatas é necessário fazer um FOR, porque a variável que seleciona o elemento pega cada um dos elementos filhos, ou seja, cada uma das opções de resposta para gênero (feminino, masculino ou outro). Se colocasse "generos" ia dar erro, porque generos não reprsenta um elemnto HTML, ele é uma lista de elementos HTML.   
          
@@ -136,7 +136,7 @@
 
 
 
-//Cria a função atualizarOpcoes. Nesse momento, entre em cena o objeto de estado "opcoes" criado lá em cima. Nessa função, as características dele que estavam como indefinidas, passam a ter um valor, esse valor muda de acordo com a opção selecionada pelo usuário. 
+//Cria a função atualizarOpcoes. Nesse momento, entra em cena o objeto de estado "opcoes" criado lá em cima. Nessa função, as características dele que estavam como indefinidas, passam a ter um valor, esse valor muda de acordo com a opção selecionada pelo usuário. 
 
       function atualizarOpcoes() {
  
@@ -182,9 +182,9 @@
 
 
             if (opcoes.ano == "TODOS")
-               //Se o valor da característica "ano" do objeto "opcoes" for igual a "TODOS", ou seja, se o usuário não escolheu uma opção. 
+               //Se o valor da característica "ano" do objeto "opcoes" for igual a "TODOS", ou seja, se o usuário não escolheu uma opção... 
                condicaoFaixa = true
-               //O valor da variável condicaoFaixa - declarada no início da função - será verdadeiro, ou seja, a condição de faixa etária é ignorada.   
+               //...o valor da variável condicaoFaixa - declarada no início da função - será verdadeiro, ou seja, a condição de faixa etária é ignorada.   
             else 
                condicaoFaixa = opcoes.ano == candidato.faixaIdade
                //Se não, ou seja, se tiver um valor de faixa etária selecionado, eu quero que a condicaoFaixa cheque se a faixa etária que a pessoa selecionou bate com a do candidato. O que está depois do sinal de igual (opcoes.ano == candidato.faixaIdade) corresponde a uma checagem. Lembrando que "faixaIdade" é a coluna que eu criei dinamicamente na minha base de dados. 
