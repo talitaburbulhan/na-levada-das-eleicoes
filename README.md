@@ -62,7 +62,8 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 * Extrair alguma revelação dos dados e abordar isso na introdução da página; 
 * Criar uma animação de "carregando dados" enquanto a página está com opacidade;
 * Colocar o percentual de pessoas eleitas;
-* Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos. 
+* Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos; 
+* Adicionar filtragem por cargo eletivo.
 
 # Atração 3
 ## 🥊Urnas sob ataque! Teste Público de Segurança
