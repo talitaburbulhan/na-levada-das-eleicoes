@@ -75,6 +75,7 @@ NÃÃÃÃÕOOOO, muito pelo contrário. Desde 2009, as urnas e seus sistemas sof
 Entender cada etapa do Teste Público de Segurança e encontrar resposta para perguntas do tipo, "Como foram selecionados os participantes?" e "Que ataque cada um realizou?" está, literalmente, na ponta do dedo: basta scrollar a tela. 📽️ Veja como:
 
 https://user-images.githubusercontent.com/89229665/180100129-5812c68c-8178-44a3-a540-2d2ba6bf5219.mp4
+
 <video style="width:70%" controls src="imagens/teste-publico-seguranca.mp4"></video>
 
 👆🏼[QUERO SCROLLAR!](https://talitaburbulhan.github.io/na-levada-das-eleicoes/TPS_teste-publico-seguranca/) 
