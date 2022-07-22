@@ -62,7 +62,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 * Colocar o percentual de pessoas eleitas;
 * Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos. 
 
-# Atração 3 - 🥊 Urnas sob ataque! Teste Público de Segurança
+# Atração 3 - 🥊Urnas sob ataque! Teste Público de Segurança
 
 SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
