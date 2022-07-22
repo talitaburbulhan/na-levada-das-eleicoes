@@ -12,7 +12,7 @@ Elas, definitivamente, não atingiram um grau de desenvolvimento suficiente para
 
 Sem mais delongas, chegou a hora de você conhecer em detalhes aspectos das eleições brasileiras! O único frio na barriga que você deve sentir aqui é o de empolgação, igual ao de quem está prestes a despencar do ápice de uma montanha-russa 🎢. Travas de segurança apertadas, o passeio começou.
 
-# Atração 1: 🗳️Confirma, Quiz da Urna Eletrônica
+# Atração 1: 🗳️ Confirma: quiz da urna eletrônica
 
 Que tal praticar como será no dia da votação? Esse quiz reproduz uma urna eletrônica e testa seus conhecimentos sobre o processo eleitoral.
 
@@ -38,7 +38,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
 * Reduzir a intensidade do som dos botões da urna. 
 
-# Atração 2: 🔽 Panorama Eleitoral, Filtrando candidatos/as/es
+# Atração 2: 🔽 Panorama Eleitoral: filtrando candidatos/as/es
 
 558.320 pessoas concorreram nas eleições municipais de 2020. 
 
