@@ -6,7 +6,7 @@
 
 🤔 O que acontece quando três formatos narrativos - um quiz, uma página com filtros exploráveis e um scrollytelling - são colocados dentro de um mesmo repositório? Eles geram o **Na levada das eleições**, um portfólio de páginas web que abordam aspectos do processo eleitoral brasileiro. O propósito aqui foi utilizar linguagem de programação, dados e informações jornalísticas para experimentar diferentes maneiras de produzir conteúdo sobre as eleições. 
 
-Os projetos que você irá encontrar nesse repositório não possuem um fio narrativo que conecte um ao outro. A experiência aqui é análoga à de um parque de diversões 🎡. A gente sabe que apesar de o barco Viking, o carrinho de Bate-bate e o estande de Tiro Ao Alvo fazerem parte de um mesmo universo, eles não possuem conexão entre si. Aliás, cada brinquedo tem uma mágica própria, assim como as páginas web que você vai explorar a seguir. 
+Os projetos que você irá encontrar nesse repositório não possuem um fio narrativo que conecte um ao outro. A experiência aqui é análoga a de um parque de diversões 🎡. A gente sabe que apesar de o barco Viking, o carrinho de Bate-bate e o estande de Tiro Ao Alvo fazerem parte de um mesmo universo, eles não possuem conexão entre si. Aliás, cada brinquedo tem uma mágica própria, assim como as páginas web que você vai explorar a seguir. 
 
 Elas, definitivamente, não atingiram um grau de desenvolvimento suficiente para serem entregues a um usuário final. Mas elas, certamente, conseguem cumprir um propósito notável: trazer à tona o tema das eleições de uma maneira leve e descontraída. Em tempos de desinformação escancarada, de ameaças à democracia e de extremismos políticos, conteúdos sobre o processo eleitoral podem ser angustiantes. **Na levada das eleições** propicia um perambular despreocupado por esse universo e anseia que o passeio instigue curiosidades, seja fonte de críticas e de inspirações e, principalmente, desperte no público o interesse de compreender a fundo o processo de escolha dos representantes do povo. 
 
@@ -93,7 +93,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 * Fazer uma apuração mais robusta e plural, trazendo outras fontes - além Tribunal Superior Eleitoral (TSE) - que abordem o tema;
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: https://triangulo.dev/posts/scroll-snap-na-pratica);
 * Melhorar a experiência do usuário, diminuindo tempo que a tela fica em branco na primeira scrolada.
-* Melhorar a responsividade do conteúdo para viulização em telas de celulares.
+* Melhorar a responsividade do conteúdo para visualização em telas de celulares.
 
 # Fim de percurso
 
