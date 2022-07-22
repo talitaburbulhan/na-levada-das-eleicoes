@@ -14,7 +14,7 @@ html, body{
 * {
     box-sizing: border-box; /*Considera o padding para calcular a largura dos elementos*/
     max-width: 550px;
-    margin: 0.5em auto;  /*Para centralizar o conteúdo*/
+    margin: 0.5em auto;  /*Centraliza o conteúdo*/
     
 }
 
