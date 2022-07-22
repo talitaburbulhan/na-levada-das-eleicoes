@@ -43,7 +43,7 @@
 
 
 
-//Cria a função "comecar". Na prática, ela carrega a questão da vez, faz desaparecer o botão "COMEÇAR", faz aparecer o desenho da urna eletrônica, faz o texto com as instruções do Quiz desaparecerem.  
+//Cria a função "comecar". Na prática, ela carrega a questão da vez, faz desaparecer o botão "COMEÇAR", faz aparecer o desenho da urna eletrônica, faz o texto com as instruções do Quiz desaparecer.  
 
         function comecar(){
 
@@ -53,7 +53,7 @@
             document.querySelector(".comecar").style.display = 'none'
                 //Da minha página web, seleciono o elemento que tem a classe ".comecar". Ele corresponde ao botão "COMEÇAR" do QUIZ. Peço para o javascript deixar o display dele como "none", ou seja, peço para que ele não apareça mais. 
             document.querySelector(".urna").classList.remove("escondida")
-                //Seleciono o elemento HTML que tem a classe ".urna", peço para que o javascript liste todas as classes dele e remova a chamada "escondida". Na prática, esse comando faz a urna aparecer na tela. 
+                //Seleciono o elemento HTML que tem a classe ".urna", peço para que o javascript liste todas as classes dele e remova a classe de nome "escondida". Na prática, esse comando faz a urna aparecer na tela. 
             document.querySelector(".instrucoes").style.display = 
             'none'
                 //Seleciono o elemento HTML que tem a classe ".instrucoes" e peço para que o javascript mexa no estilo dele, fazendo com que o display seja "none". Na prática, estou fazendo desaparecer as instruções do jogo. 
@@ -75,7 +75,7 @@
 //Cria a função "loadQuestion". Ela é rodada dentro da função "comecar" - declarada acima. 
 
         function loadQuestion(n){
-                //Função que seleciona trechos do HTML, preenche eles com conteúdo e esconde o botão "Próxima Pergunta". Ela recebe "n" como parâmetro. Isso permite que possa criar ou reduzir perguntas no meu quiz sem causar um erro em outras etapas do código.
+                //Função que seleciona trechos do HTML, preenche eles com conteúdo e esconde o botão "Próxima Pergunta". Ela recebe "n" como parâmetro. Isso permite que criar ou reduzir perguntas no quiz sem causar um erro em outras etapas do código.
 
             const elContexto = document.querySelector(".contexto")
             const elExplicacao = document.querySelector(".explicacao")
@@ -105,7 +105,7 @@
         document.querySelector('#numero2').addEventListener('click', selecionarResposta);        
 
 
-//Cria função "selecionarResposta". Ela habilita uma opção e concomitantemente desabilita a outra. Se o usuário clicar em 1,o botão 1 fica marcado, se clicar em 2, o botão 2 fica marcado e o 1 desmarcado.   
+//Cria função "selecionarResposta". Ela habilita uma opção e concomitantemente desabilita a outra. Se o usuário clicar em 1, o botão 1 fica marcado, se clicar em 2, o botão 2 fica marcado e o 1 desmarcado.   
 
         function selecionarResposta(event) { 
 
@@ -113,22 +113,22 @@
                 //Dá play na variável somNumero. Emite som toda vez que clica nos botões 1 ou 2. 
 
             if (event.target.id == "numero1") {
-                //target é o elemento htlm que provocou o evento, representa o elmento que foi clicado. Desse elemento que foi clicado, quero checar o ID 
+                //Target é o elemento htlm que provocou o evento, representa o elemento que foi clicado. Desse elemento que foi clicado, quero checar o ID. 
             opcao = true
-                //O valor da variável "opcao" - declarada acima- será verdadeiro 
+                //O valor da variável "opcao" - declarada acima - será verdadeiro 
             document.querySelector('#numero2').classList.remove('clicado')
                 //Retira do elemento que possui ID = "numero2" o estilo "clicado". Se usuário clicar no 1, quero que o botão 2 perca a classe "clicado". 
         }
             else  {
-                //se a condição de cima não for realizada, ou seja, se ID for igual a "numero2"
+                //se a condição de cima não for realizada, ou seja, se ID for igual a "numero2"...
             opcao = false
-                //o valor da variável "opcao" é falso
+                //...o valor da variável "opcao" é falso
             document.querySelector('#numero1').classList.remove('clicado')
-                //retira o estilo clicado do elmento que tem a ID iagua a "numero1"
+                //Retira o estilo clicado do elemento que tem a ID igual a "numero1"
         }
 
             event.target.classList.add('clicado')
-                //adiciona a classe "clicado" no target do evento (botão que foi clicado). Ou seja, deixa o botão que foi clicado com transparência.             
+                //Adiciona a classe "clicado" no target do evento (botão que foi clicado). Ou seja, deixa o botão que foi clicado com transparência.             
     }
 
 
@@ -183,12 +183,12 @@
 
 
 
-//Cria a função "avancar". Ela remove as opacidades dos botões 1 ou 2, esconde a div com explicação da resposta, roda a função que carreda a próxima pergunta e 🚨[explicar o perguntaAtual++] 
+//Cria a função "avancar". Ela remove as opacidades dos botões 1 ou 2, esconde a div com explicação da resposta, roda a função que carreda a próxima pergunta.
 
         function avancar() {
 
             perguntaAtual++
-                //Soma 1 na variável pergunta atual, para poder avançar para a p´roxima pergunta.
+                //Soma 1 na variável pergunta atual, para poder avançar para a próxima pergunta.
             document.querySelector(".complemento").style.display = "none" 
                 //Esconde a div que tem a classe "complemento", ou seja, que tem a explicação da resposta.
             loadQuestion(perguntaAtual)   
