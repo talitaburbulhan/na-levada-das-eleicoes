@@ -39,7 +39,8 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no quiz:
 * Reproduzir o visual da urna utilizando HTML e CSS, ao invés de usar uma imagem SVG. Isso tornaria a interação com os botões (1, 2 e Confirma) mais fácil de lidar via javascript;
 * Reduzir a intensidade do som dos botões da urna. 
 
-# Atração 2 - 🔽 Panorama Eleitoral: filtrando candidatos/as/es
+# Atração 2
+## 🔽 Panorama Eleitoral: filtrando candidatos/as/es
 
 558.320 pessoas concorreram nas eleições municipais de 2020. 
 
@@ -63,7 +64,8 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 * Colocar o percentual de pessoas eleitas;
 * Criar uma visualização que faça um comparativo dos candidatos e quantos deles foram eleitos. 
 
-# Atração 3 - 🥊Urnas sob ataque! Teste Público de Segurança
+# Atração 3
+## 🥊Urnas sob ataque! Teste Público de Segurança
 
 SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
