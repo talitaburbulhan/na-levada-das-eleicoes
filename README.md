@@ -88,7 +88,11 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 
 # Fim de percurso
 
-<video style="width:70%" controls src="imagens/tchau-tchau.mp4"></video>
+
+<video style="width:70%" controls>
+  <source src="imagens/tchau-tchau.mp4">
+  Your browser does not support the video tag.
+</video>
 
 📽️ [Scott Schaffer](https://www.youtube.com/watch?v=KTji1hOICEI)
 
