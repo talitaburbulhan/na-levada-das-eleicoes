@@ -92,7 +92,7 @@ Entender cada etapa do Teste Público de Segurança e encontrar resposta para pe
 Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling: 
 * Fazer uma apuração mais robusta e plural, trazendo outras fontes - além Tribunal Superior Eleitoral (TSE) - que abordem o tema;
 * Melhorar a experiência do usuário, travando o scroll em determinados pontos da página (Referência: [Scroll snap na prática](https://triangulo.dev/posts/scroll-snap-na-pratica));
-* Melhorar a experiência do usuário, diminuindo tempo que a tela fica em branco na primeira scrolada.
+* Melhorar a experiência do usuário, diminuindo o tempo que a tela fica em branco na primeira scrolada.
 * Melhorar a responsividade do conteúdo para visualização em telas de celulares.
 
 # Fim de percurso
