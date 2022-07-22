@@ -92,6 +92,10 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 
 https://bit.ly/tchau-tchau
 
+
+https://user-images.githubusercontent.com/89229665/180337973-ab996c02-12af-44b1-a4ba-7f2479d8bc9d.mp4
+
+
 <video style="width:70%" controls>
   <source src="imagens/tchau-tchau.mp4">
   Your browser does not support the video tag.
