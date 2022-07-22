@@ -47,16 +47,16 @@ footer {
     display: flex;
     align-items: top;
     justify-content: center;
-    position: fixed; /* Qualquer elemento que tiver esta propriedade vai ficar fixo na página (não vai rolar, nao vai mudar de posição. Vai ficar onde você colocar ele) */
+    position: fixed; /*Qualquer elemento que tiver esta propriedade vai ficar fixo na página (não vai rolar, nao vai mudar de posição. Vai ficar onde for colocado)*/
     margin-top: 5em;
 }
 
 
 
 
-.passos > div {  /* Regra que seleciona os filhos diretos da classe passos. No nosso caso, seleciona as div que contêm os svgs */
+.passos > div {  /*Regra que seleciona os filhos diretos da classe "passos". Nesse caso, seleciona as div que contêm os svgs*/
 
-    position: absolute;  /* empilhou as imagens uma em cima da outra. A diferença entre o POSITION FIXED e o POSITION ABSOLUTE é que o fixed "vai ficar fixo na página" e o absolute "vai ficar fixo no pai desse elemento", no caso o "passos". Se "passos" mudar de posição, todas as divs vao junto com ele, empilhadas uma em cima da outra. */
+    position: absolute;  /*Empilhou as imagens uma em cima da outra. A diferença entre o POSITION FIXED e o POSITION ABSOLUTE é que o fixed "vai ficar fixo na página" e o absolute "vai ficar fixo no pai desse elemento", no caso o "passos". Se "passos" mudar de posição, todas as divs vao junto com ele, empilhadas uma em cima da outra.*/
     display: none;
       
 }
@@ -74,7 +74,7 @@ footer {
 
 .gatilhos {
 
-    position: absolute; /* Porque eu quero que ele fique por cima das imagens */
+    position: absolute; /*Porque eu quero que ele fique por cima das imagens*/
 }
 
 .gatilhos > div {
