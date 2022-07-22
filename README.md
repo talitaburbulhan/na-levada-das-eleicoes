@@ -90,6 +90,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas no scrollytelling:
 
 # Fim de percurso
 
+https://bit.ly/tchau-tchau
 
 <video style="width:70%" controls>
   <source src="imagens/tchau-tchau.mp4">
