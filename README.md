@@ -69,7 +69,7 @@ Algumas melhorias que poderiam ser futuramente desenvolvidas na página de filtr
 2. Realizar todos os cálculos em um servidor, ao invés de fazer no cliente (navegador). Para isso, o site não poderia estar hospedado no GitHub pages, mas sim em alguma hospedagem do tipo AWS, Google Cloud, Heroku etc. A página enviaria uma requisição (com um “fetch()” no JS, por exemplo) para esse servidor com as opções da pessoa, que retornaria um JSON ou CSV só com o resultado. No servidor, daria para fazer esses filtros utilizando Python ou mesmo JavaScript, através do Node.js.
 
 # Atração 3
-## 🥊Urnas sob ataque! Teste Público de Segurança
+## 🥊 Urnas sob ataque! Teste Público de Segurança
 
 SIIIMMMMMM, as urnas eletrônicas já sofreram ataques 😱.
 
